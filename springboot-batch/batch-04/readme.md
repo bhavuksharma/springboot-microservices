@@ -1,0 +1,1 @@
+* add api to get the logs available in the h2 database.
