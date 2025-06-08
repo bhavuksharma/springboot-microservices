@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>batch01</artifactId>
+	<artifactId>batch02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>batch-01</name>
+	<name>batch-02</name>
 	<description>Demo project for Spring Boot batch scheduler</description>
 	<url/>
 	<licenses>
