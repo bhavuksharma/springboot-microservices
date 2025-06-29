@@ -1,0 +1,1 @@
+Job scheduling in Spring Batch allows you to execute batch jobs at specified intervals or times. You can use Spring’s scheduling capabilities along with Spring Batch to automate your batch processes. One popular approach is to use Spring Scheduler
