@@ -8,6 +8,7 @@ public class PersonProcessor implements ItemProcessor<Person, Person>{
 	@Override
 	public Person process(Person person) throws Exception {
 		
+//		person.setId(null);
 		person.setFirstName(person.getFirstName().toUpperCase());
 		person.setLastName(person.getLastName().toUpperCase());
 		
